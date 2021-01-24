@@ -16,7 +16,7 @@ exclude = ["build.rs"]
 doctest = false
 
 [dependencies]
-ascii-canvas = { git = "https://github.com/bpowers/ascii-canvas", default_features = false }
+ascii-canvas = { git = "https://github.com/bpowers/ascii-canvas", version = "2.1.1", default_features = false, rev = "ebf523edda2d678eae90a3e627c9a863904bd7b7" }
 atty = { version = "0.2", default_features = false }
 bit-set = { version = "0.5.2", default_features = false }
 diff = { version = "0.1.12", default_features = false }

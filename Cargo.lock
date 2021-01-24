@@ -11,8 +11,8 @@ dependencies = [
 
 [[package]]
 name = "ascii-canvas"
-version = "2.1.0"
-source = "git+https://github.com/bpowers/ascii-canvas#d7523dcb122617bee3bb04ed769f9c7c5965992f"
+version = "2.1.1"
+source = "git+https://github.com/bpowers/ascii-canvas?rev=ebf523edda2d678eae90a3e627c9a863904bd7b7#ebf523edda2d678eae90a3e627c9a863904bd7b7"
 dependencies = [
  "term",
 ]
